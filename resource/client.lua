@@ -435,16 +435,10 @@ SetBlockingOfNonTemporaryEvents(boss, true)
         local options = {
             options = {
                 {
-                    name = 'trickortreat',
+                    name = 'winboss',
                     type = "client",
                     action = function() 
-                        local soldCandy, profit, candySold = lib.callback.await('stevo_trickortreat:sellCandy', false)
-
-                        if soldCandy then 
-                            stevo_lib.Notify(locale('notify.soldCandy', candySold, profit), 'success', 5000)
-                        else 
-                            stevo_lib.Notify(locale('notify.noCandy'), 'error', 3000)
-                        end
+                        wineBoss()
                     end,
                     icon =  'fas fa-handshake',
                     label = locale("target.wineBoss"),
