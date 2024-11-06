@@ -7,10 +7,11 @@ Players can pick grapes, crush them and make their own fine wines! The script is
 - Supports ox_target, qb-target and interact.
 - Locales: English, Español, Dutch, Estonian, French
 
-**Preview:** [Click Here]()
-**Download:** [Click Here]()
+**Preview:** [Click Here](https://youtu.be/M7LS4ngOCoY)
+<br>
+**Download:** [Click Here](https://github.com/stevoscriptsteam/stevo_advancedvineyard/releases/tag/1.0.0)
 
-Installation guide: [Click Here]()
+Installation guide: [Click Here](https://docs.stevoscripts.com/free-scripts/stevo_advancedvineyard)
 Forum post: [Click Here]()
 
 **Dependencies:**
