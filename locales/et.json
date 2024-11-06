@@ -1,0 +1,46 @@
+{
+    "notify": {
+        "pickLimit": "Oled kõik viinamarjad siit ära korjanud!",
+        "failedSkill": "Ebaõnnestus midagi korjata!",
+        "pickedGrape": "Korjasid viinamarju!",
+        "notEnoughGrapes": "Sul pole piisavalt viinamarju pudeli tegemiseks!",
+        "startedProcessing": "Alustasid viinamarjade töötlemist",
+        "notEnoughBottles": "Sul pole piisavalt pudeleid, vajad %s",
+        "bottledWine": "Pudelistasid kogu oma veini!",
+        "soldWine": "Müüsid %sx veini hinnaga $%s",
+        "noWine": "Sul pole veini!",
+        "notEnoughMoney": "Sul pole piisavalt raha, et osta tühje pudeleid!",
+        "boughtBottles": "Ostsid %s pudelit"
+    },
+    "progress": {
+        "pickingGrape": "Viinamarjade korjamine...",
+        "bottlingWine": "Veini pudelisse panemine..."
+    },
+    "textui": {
+        "pickGrapes": "**[E]** Korja viinamarju",
+        "processGrapes": "**[E]** Töötle viinamarju",
+        "wineBoss": "**[E]** Viinamarjade Boss"
+    },
+    "target": {
+        "wineBoss": "Viinamarjade Boss"
+    },
+    "input": {
+        "sellWine": "Osta tühje pudeleid",
+        "wineAmount": "Ostetav kogus"
+    },
+    "menu": {
+        "buyerTitle": "Müü esemed Viinamarja Vinnile",
+        "processProgress": "Töötlemise edenemine",
+        "processingProgressDescription": "%s%% valmis.",
+        "processingTitle": "Viinamarjade töötlemine",
+        "processWine": "Alusta töötlemist",
+        "processWineDescription": "Muuda oma valged ja punased viinamarjad veiniks!\n 1x Pudel = 5x Viinamarjad",
+        "bottleWine": "Pane vein pudelisse",
+        "bottleWineDescription": "Vajalik: \n %sx tühja veini pudelit",
+        "processInfo": "Töötlemise info",
+        "processInfoDescription": "Punased pudelid: %s \n Valged pudelid: %s",
+        "sellWine": "Müü vein",
+        "sellWineDescription": "Punased pudelid: $%s \n Valged pudelid: $%s",
+        "buyWineBottles": "Osta tühi veini pudel ($%s)"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "notify": {
+        "pickLimit": "Je hebt hier alle druiven geplukt!",
+        "failedSkill": "Het lukte niet om iets te plukken!",
+        "pickedGrape": "Je hebt druiven geplukt!",
+        "notEnoughGrapes": "Je hebt niet genoeg druiven om een fles te maken!",
+        "startedProcessing": "Gestart met druiven verwerken",
+        "notEnoughBottles": "Je hebt niet genoeg flessen, je hebt er %s nodig",
+        "bottledWine": "Je hebt al je wijn gebotteld!",
+        "soldWine": "Je hebt %sx wijn verkocht voor $%s",
+        "noWine": "Je hebt geen wijn!",
+        "notEnoughMoney": "Je hebt niet genoeg geld om lege flessen te kopen!",
+        "boughtBottles": "Je hebt %s flessen gekocht"
+    },
+    "progress": {
+        "pickingGrape": "Druiven plukken...",
+        "bottlingWine": "Wijn bottelen..."
+    },
+    "textui": {
+        "pickGrapes": "**[E]** Druiven plukken",
+        "processGrapes": "**[E]** Druiven verwerken",
+        "wineBoss": "**[E]** Wijnbaas"
+    },
+    "target": {
+        "wineBoss": "Wijnbaas"
+    },
+    "input": {
+        "sellWine": "Lege flessen kopen",
+        "wineAmount": "Hoeveelheid om te kopen"
+    },
+    "menu": {
+        "buyerTitle": "Verkoop items aan Wijnbaas Vinnie",
+        "processProgress": "Verwerkingsvoortgang",
+        "processingProgressDescription": "%s%% voltooid.",
+        "processingTitle": "Druiven verwerken",
+        "processWine": "Start Verwerking",
+        "processWineDescription": "Zet je witte en rode druiven om in wijn!\n 1x Fles = 5x Druiven",
+        "bottleWine": "Wijn bottelen",
+        "bottleWineDescription": "Benodigd: \n %sx lege wijnflessen",
+        "processInfo": "Verwerkingsinformatie",
+        "processInfoDescription": "Rode flessen: %s \n Witte flessen: %s",
+        "sellWine": "Wijn verkopen",
+        "sellWineDescription": "Rode flessen: $%s \n Witte flessen: $%s",
+        "buyWineBottles": "Lege wijnfles kopen ($%s)"
+    }
+}

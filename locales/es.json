@@ -1,0 +1,46 @@
+{
+    "notify": {
+        "pickLimit": "¡Has recogido todas las uvas aquí!",
+        "failedSkill": "¡No lograste recoger nada!",
+        "pickedGrape": "¡Recogiste uvas!",
+        "notEnoughGrapes": "¡No tienes suficientes uvas para hacer una botella!",
+        "startedProcessing": "Comenzaste a procesar uvas",
+        "notEnoughBottles": "No tienes suficientes botellas, necesitas %s",
+        "bottledWine": "¡Emboteaste todo tu vino!",
+        "soldWine": "Vendiste %sx vino por $%s",
+        "noWine": "¡No tienes vino!",
+        "notEnoughMoney": "¡No tienes suficiente dinero para comprar botellas vacías!",
+        "boughtBottles": "Compraste %s botellas"
+    },
+    "progress": {
+        "pickingGrape": "Recogiendo uvas...",
+        "bottlingWine": "Embotellando vino..."
+    },
+    "textui": {
+        "pickGrapes": "**[E]** Recoger uvas",
+        "processGrapes": "**[E]** Procesar uvas",
+        "wineBoss": "**[E]** Jefe del viñedo"
+    },
+    "target": {
+        "wineBoss": "Jefe del viñedo"
+    },
+    "input": {
+        "sellWine": "Comprar botellas vacías",
+        "wineAmount": "Cantidad a comprar"
+    },
+    "menu": {
+        "buyerTitle": "Vender artículos a Vinnie del Viñedo",
+        "processProgress": "Progreso del procesamiento",
+        "processingProgressDescription": "%s%% completado.",
+        "processingTitle": "Procesar uvas",
+        "processWine": "Iniciar procesamiento",
+        "processWineDescription": "¡Convierte tus uvas blancas y rojas en vino!\n 1x Botella = 5x Uvas",
+        "bottleWine": "Embotellar vino",
+        "bottleWineDescription": "Requerido: \n %sx botellas vacías",
+        "processInfo": "Información del procesamiento",
+        "processInfoDescription": "Botellas de vino tinto: %s \n Botellas de vino blanco: %s",
+        "sellWine": "Vender vino",
+        "sellWineDescription": "Botellas de vino tinto: $%s \n Botellas de vino blanco: $%s",
+        "buyWineBottles": "Comprar botella de vino vacía ($%s)"
+    }
+}

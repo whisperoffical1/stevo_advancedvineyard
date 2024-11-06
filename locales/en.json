@@ -1,0 +1,55 @@
+
+
+{
+
+    "notify" : {
+        "pickLimit" : "You have picked all of the grapes here!",
+        "failedSkill" : "You failed to pick anything!",
+        "pickedGrape" : "You picked grapes!",
+        "notEnoughGrapes" : "You do not have enough grapes to make a bottle!",
+        "startedProcessing" : "Started Processing Grapes",
+        "notEnoughBottles" : "You do not have enough bottles, you need %s",
+        "bottledWine" : "You bottled all of your wine!",
+        "soldWine" : "You sold %sx Wine for $%s",
+        "noWine" : "You do not have any wine!",
+        "notEnoughMoney" : "You do not have enough money to buy empty bottles!",
+        "boughtBottles" : "You bought %s bottles"
+    },
+
+    "progress" : {
+        "pickingGrape" : "Picking Grapes...",
+        "bottlingWine" : "Bottling Wine..."
+    },
+
+    "textui" : {
+        "pickGrapes" : "**[E]** Pick Grapes",
+        "processGrapes" :  "**[E]** Process Grapes",
+        "wineBoss" :  "**[E]** Vineyard Boss"
+    },
+
+    "target" : {
+        "wineBoss" : "Vineyard Boss"
+    },
+    "input" : {
+        "sellWine" : "Buy Empty Bottles",
+        "wineAmount" : "Amount to Buy"
+    },
+
+    "menu" : {
+        "buyerTitle" : "Sell items to Vineyard Vinnie",
+        "processProgress" : "Processing Progress",
+        "processingProgressDescription" : "%s%% completed.",
+        "processingTitle" : "Process Grapes",
+        "processWine" : "Begin Process",
+        "processWineDescription" : "Turn your White & Red grapes into wine!\n 1x Bottle = 5x Grapes",
+        "bottleWine" : "Bottle Wine",
+        "bottleWineDescription" : "Required: \n %sx empty wine bottles",
+        "processInfo" : "Process Info",
+        "processInfoDescription" : "Red Bottles: %s \n White Bottles: %s",
+        "sellWine" : "Sell Wine",
+        "sellWineDescription" : "Red Bottles: $%s \n White Bottles: $%s",
+        "buyWineBottles" : "Buy Empty Wine Bottle ($%s)"
+    }
+
+    
+}
